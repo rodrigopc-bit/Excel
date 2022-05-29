@@ -1,4 +1,4 @@
-# Excel
+# Python to Excel Data Form with GUI!
 Simple project of an Entry Form made with Python using the library PySimpleGUI alongside with Pands and OpenPyXL.
 
 ![image](https://user-images.githubusercontent.com/73700347/170884014-cd6fe841-c8ad-4314-a7f1-6168500e14f7.png)
